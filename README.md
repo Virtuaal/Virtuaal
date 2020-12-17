@@ -13,7 +13,7 @@ ___
 	<br>
 	<br>
 	<br>
-	<img src="http://img.shields.io/badge/Discord-%40Luke/Azodox_%232416-7289DA?style=for-the-badge" />
+	<img src="http://img.shields.io/badge/Discord-%40Matt-%230069-7289DA?style=for-the-badge" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="http://img.shields.io/badge/Twitter-%40VHDG_OFFICIAL-1DA1F2?style=for-the-badge" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
