@@ -39,8 +39,6 @@ ___
 	<img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" width="128"/>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<br>
-	<br>
-	<br><br>
 	<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="128" />
 </p>
 
