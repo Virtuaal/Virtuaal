@@ -34,7 +34,7 @@ ___
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://www.solutions-numeriques.com/wp-content/uploads/2016/03/java.png" width="128"/>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" width="128"/>
+	<img src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg" width="128"/>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<br>
 	<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="128" />
