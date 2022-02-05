@@ -5,7 +5,7 @@ Hello people 👋
 </b>
 </font>
 <br>
-My name is Virtuaal, <b>I'm a Java developer</b> from Canada. <br> I also do some c# because why not. <br> That's it :)
+My name is Virtuaal, <b>I'm a developer</b> from Canada. <br> I also do some c# because why not. <br> I do a lot more, but here's a bit of what I use :)
 
 ___
 
