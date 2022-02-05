@@ -24,7 +24,7 @@ ___
 <p align="center">
 	<font size="10">
 		<b>
-		My languages
+		Some of the features I use
 		</b>
 	</font>
 </p>
@@ -33,8 +33,6 @@ ___
 	<img src="https://www.split.io/wp-content/uploads/2020/03/javascript-logo.png" width="128"/>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://www.solutions-numeriques.com/wp-content/uploads/2016/03/java.png" width="128"/>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://cdn.iconscout.com/icon/free/png-256/c-programming-569564.png" width="128"/>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" width="128"/>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
