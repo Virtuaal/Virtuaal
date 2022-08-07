@@ -14,9 +14,10 @@
 ___
 
 <div align="center">
-<h3 dir="auto"><a id="user-content-desktop_computer-programming-languages" class="anchor" aria-hidden="true" href="#desktop_computer-programming-languages"></a><g-emoji class="g-emoji" alias="desktop_computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png">🖥️</g-emoji> Some of the things I use</h3>
+<p align="center"><a id="user-content-desktop_computer-programming-languages" class="anchor" aria-hidden="true" href="#desktop_computer-programming-languages"></a><g-emoji class="g-emoji" alias="desktop_computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png">🖥️</g-emoji> Hey ! I'm Virtual or Matthieu, you choose what you want to call me. <br> I work on stuff and love programming. Been at it for a couple of years now...</p>
 </div>
 
+<!--
 <div>
 	<p align="center">
 		<img src="https://brandeps.com/icon-download/U/Unity-icon-vector-02.svg" width="128"/>
@@ -41,10 +42,13 @@ ___
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;											  
 	</p>
 </div>
+-->
 
 <br>
 <br>
 <br>
+
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 <div align="center">
 <h2 dir="auto"><a id="user-content-memo-contacting" class="anchor" aria-hidden="true" href="#memo-contacting"></a><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Contacting</h2>
