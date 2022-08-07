@@ -48,7 +48,9 @@ ___
 <br>
 <br>
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+<div align="center">
+  <img src="/github-metrics.svg" alt="Metrics" width="40%">
+</div>
 
 <div align="center">
 <h2 dir="auto"><a id="user-content-memo-contacting" class="anchor" aria-hidden="true" href="#memo-contacting"></a><g-emoji class="g-emoji" alias="memo" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png">📝</g-emoji> Contacting</h2>
