@@ -57,7 +57,6 @@ jobs:
           users_ignored: <default-value>
           commits_authoring: <default-value>
           repo: <default-value>
-          committer_token: ***
           committer_branch: <default-value>
           committer_message: <default-value>
           committer_gist: <default-value>
