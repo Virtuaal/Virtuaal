@@ -1,7 +1,6 @@
 <!--<img align="right" src="https://github-readme-stats.vercel.app/api?username=virtuaal&count_private=true&show_icons=true&hide_border=true" />-->
 <font size="10">
 <!--
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=virtuaal&count_private=true&show_icons=true&hide_border=true&theme=radical" />
 
 <h2 dir="auto"><a id="user-content-construction-current-projects" class="anchor" aria-hidden="true" href="#construction-current-projects"></a><g-emoji class="g-emoji" alias="construction" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a7.png">🚧</g-emoji> Current Projects</h2>
 </font>
@@ -17,6 +16,10 @@ ___
 
 <div align="center">
 <p align="center"><a id="user-content-desktop_computer-programming-languages" class="anchor" aria-hidden="true" href="#desktop_computer-programming-languages"></a><g-emoji class="g-emoji" alias="desktop_computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png">🖥️</g-emoji> Hey ! I'm Virtual or Matthieu, you choose what you want to call me. <br> I work on stuff and love programming. Been at it for a couple of years now...</p>
+</div>
+
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=virtuaal&count_private=true&show_icons=true&hide_border=true&theme=radical" />
 </div>
 
 <!--
