@@ -1,7 +1,7 @@
 name: Metrics
 on:
-  # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
+  # Schedule each hour
+  schedule: [{cron: "0 * * * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
@@ -18,7 +18,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Paris
+          config_timezone: Canada/Eastern
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
