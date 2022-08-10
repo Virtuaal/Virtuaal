@@ -1495,7 +1495,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aikar/commands</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Java Command Dispatch Framework - (Bukkit, Spigot, Paper, Sponge, Bungee, JDA, Velocity supported, generically usable anywhere)</div>
@@ -2328,7 +2328,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Aug 2022, 06:25:35 (timezone Canada/Eastern) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 10 Aug 2022, 07:19:26 (timezone Canada/Eastern) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
