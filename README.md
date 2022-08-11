@@ -19,7 +19,7 @@ ___
 </div>
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=virtuaal&count_private=true&show_icons=true&hide_border=true&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=virtuaal&count_private=true&show_icons=true&theme=radical" />
 </div>
 
 <!--
