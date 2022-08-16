@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            569 Commits
+                            581 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -171,7 +171,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    12.6 MB used
+                                    12.8 MB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -327,14 +327,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="218.24903804747947" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="218.24903804747947" y="0" width="125.5152076805385" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="343.76424572801795" y="0" width="47.526903911907176" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="391.29114963992515" y="0" width="33.18393881604928" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="424.47508845597446" y="0" width="16.481287815797256" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="440.9563762717717" y="0" width="8.811623998110823" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="449.7680002698825" y="0" width="6.540026948561586" height="8" fill="#e38c00"/>
-                    <rect mask="url(#languages-bar)" x="456.3080272184441" y="0" width="3.6919727815559122" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="217.55461331291917" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="217.55461331291917" y="0" width="125.26734733641722" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="342.8219606493364" y="0" width="47.37568282095181" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="390.1976434702882" y="0" width="33.10929190366971" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="423.3069353739579" y="0" width="16.42884765835561" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="439.7357830323135" y="0" width="8.783587175082067" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="448.5193702073956" y="0" width="6.519217892455762" height="8" fill="#e38c00"/>
+                    <rect mask="url(#languages-bar)" x="455.0385880998513" y="0" width="4.961411900148655" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -346,7 +346,7 @@
                                 Java
                             </div>
                             <small>
-                                <div>47.45%</div>
+                                <div>47.29%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -357,7 +357,7 @@
                                 C#
                             </div>
                             <small>
-                                <div>10.33%</div>
+                                <div>10.3%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -368,7 +368,7 @@
                                 PHP
                             </div>
                             <small>
-                                <div>3.58%</div>
+                                <div>3.57%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -392,7 +392,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>27.29%</div>
+                                <div>27.23%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -403,7 +403,7 @@
                                 HTML
                             </div>
                             <small>
-                                <div>7.21%</div>
+                                <div>7.2%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -414,7 +414,7 @@
                                 Hack
                             </div>
                             <small>
-                                <div>1.92%</div>
+                                <div>1.91%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -425,7 +425,7 @@
                                 CSS
                             </div>
                             <small>
-                                <div>0.8%</div>
+                                <div>1.08%</div>
                             </small>
                         </div>
                     </section>
@@ -476,7 +476,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~1.60
+                            Average per day at ~1.64
                         </div>
                     </section>
                 </div>
@@ -1464,10 +1464,10 @@
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.5294117647058822 0,2.5294117647058822 z"/>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.5294117647058822 1.7,3.5294117647058822 z"/>
                             </g>
-                            <g transform="translate(-1.7, 5.470588235294118)">
+                            <g transform="translate(-1.7, 4.764705882352941)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.5294117647058822 0,2.5294117647058822 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.5294117647058822 1.7,3.5294117647058822 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.235294117647059 0,3.235294117647059 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.235294117647059 1.7,4.235294117647059 z"/>
                             </g>
                         </g>
                     </g>
@@ -1543,7 +1543,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Azodox/xmas-economy</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">XMAS project's economy plugin</div>
@@ -1596,7 +1596,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Azodox/account-system</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">My original way to manage accounts on a minecraft server.</div>
@@ -1649,7 +1649,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Azodox/xmas-jobs</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1715,8 +1715,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#03c6afe</div>
-                                        <div class="message">Modified Owl carousel to be auto playing.</div>
+                                        <div class="sha">#3270aac</div>
+                                        <div class="message">Modified layout</div>
                                     </div>
                                 </div>
                             </section>
@@ -1735,8 +1735,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#39aa6e8</div>
-                                        <div class="message">Modified Owl carousel to have no nav buttons.</div>
+                                        <div class="sha">#f7d622e</div>
+                                        <div class="message">Added new animation</div>
                                     </div>
                                 </div>
                             </section>
@@ -1755,8 +1755,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#cb27898</div>
-                                        <div class="message">Modified Who am I section and added responsivness for footer.</div>
+                                        <div class="sha">#dabdcd0</div>
+                                        <div class="message">Added favicon</div>
                                     </div>
                                 </div>
                             </section>
@@ -1775,8 +1775,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#eac0c94</div>
-                                        <div class="message">Added background color to about me section and added responsive behaviours.</div>
+                                        <div class="sha">#5064bee</div>
+                                        <div class="message">Added favicon</div>
                                     </div>
                                 </div>
                             </section>
@@ -1795,8 +1795,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9df84ed</div>
-                                        <div class="message">Added background color to about me section and added responsive behaviours.</div>
+                                        <div class="sha">#c406fee</div>
+                                        <div class="message">Added custom font</div>
                                     </div>
                                 </div>
                             </section>
@@ -2203,7 +2203,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Aug 2022, 22:20:30 (timezone Canada/Eastern) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 16 Aug 2022, 00:04:41 (timezone Canada/Eastern) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
